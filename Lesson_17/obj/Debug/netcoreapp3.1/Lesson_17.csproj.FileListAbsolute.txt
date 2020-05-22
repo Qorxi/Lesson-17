@@ -1,0 +1,13 @@
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\obj\Debug\netcoreapp3.1\Lesson_17.csprojAssemblyReference.cache
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\obj\Debug\netcoreapp3.1\Lesson_17.csproj.CoreCompileInputs.cache
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\obj\Debug\netcoreapp3.1\Lesson_17.AssemblyInfoInputs.cache
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\obj\Debug\netcoreapp3.1\Lesson_17.AssemblyInfo.cs
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\bin\Debug\netcoreapp3.1\Lesson_17.exe
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\bin\Debug\netcoreapp3.1\Lesson_17.deps.json
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\bin\Debug\netcoreapp3.1\Lesson_17.runtimeconfig.json
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\bin\Debug\netcoreapp3.1\Lesson_17.runtimeconfig.dev.json
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\bin\Debug\netcoreapp3.1\Lesson_17.dll
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\bin\Debug\netcoreapp3.1\Lesson_17.pdb
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\obj\Debug\netcoreapp3.1\Lesson_17.dll
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\obj\Debug\netcoreapp3.1\Lesson_17.pdb
+C:\Users\Gorkhmaz Mahharamov\source\repos\Lesson_17\Lesson_17\obj\Debug\netcoreapp3.1\Lesson_17.genruntimeconfig.cache
